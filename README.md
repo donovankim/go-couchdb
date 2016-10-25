@@ -36,3 +36,5 @@ e.g. fetching values from the CouchDB config.
 You can run the unit tests with `go test`.
 
 [![Build Status](https://travis-ci.org/fjl/go-couchdb.png?branch=master)](https://travis-ci.org/fjl/go-couchdb)
+
+Thanks.
